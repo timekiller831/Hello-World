@@ -1,2 +1,2 @@
 # Hello-World
-Test Onlu
+Test Only
